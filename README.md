@@ -1,5 +1,5 @@
 # DACrew_3th_TODAY
-노션 링크(https://automatic-tarantula-729.notion.site/DACrew-3-1adddb61a33c442cb73aa9baa447eab3)
+
 
 
 # 📜 Study Info
@@ -9,6 +9,7 @@
 - 스터디 장소 : [ZOOM](https://zoom.us/)
 - 스터디 시간: 월요일, 목요일 20:00 ~ 22:00
 - 스터디 구성원: 최상현, 박세원, 우승우, 이연진, 허강호
+- 🔗[노션 링크](https://automatic-tarantula-729.notion.site/DACrew-3-1adddb61a33c442cb73aa9baa447eab3)
 - 💾[스터디 구글 드라이브 링크](https://drive.google.com/drive/folders/1sGFmp3E7OKz9HiEawmqHXfk3lT-Po5zu?usp=sharing)
 
 # 👪  About Us
