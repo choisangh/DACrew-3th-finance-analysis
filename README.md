@@ -1,7 +1,4 @@
 # DACrew_3th_TODAY
-데이크루 3기 금융데이터분석팀 투.데.이
-
-[https://apption.co/app_posts/f2e60fee](https://apption.co/app_posts/f2e60fee)
 
 # 📜 Study Info
 
@@ -98,20 +95,6 @@
     - CNN 실습 (이미지 분석)
     - CNN 모델링 (캔들차트, 기술지표 Feature 구성 후 학습)
     - 백테스팅 및 성과평가
-- **8주차 (2022/08/24 ~ 2022/08/31) (최상현)**
-    
-      **session 8.** 데이콘 공모전 연습 or 공모전 참여
-    
-    - **주식 종료 가격 예측 경진대회**
-    - **2021년(제2회) NH투자증권 빅데이터 경진대회**
-    - **주식 종료 가격 예측 Pre Competiton(with.데이커)**
-    - **인공지능 비트 트레이더 경진대회 시즌3**
-    - **한국거래소 KRX | 금융 분석 아이디어**
-    - 5**중 택1**
-
-# 🗓️ Calendar
-
-[제목 없음](https://www.notion.so/1fceaa27c6084e01b5f94b5d9d787001)
 
 # [🗞](https://dacon.io/competitions/official/235946/codeshare/5503?page=1&dtype=random)  Card News
 
