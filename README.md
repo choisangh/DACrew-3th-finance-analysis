@@ -1,4 +1,6 @@
 # DACrew_3th_TODAY
+노션 링크(https://automatic-tarantula-729.notion.site/DACrew-3-1adddb61a33c442cb73aa9baa447eab3)
+
 
 # 📜 Study Info
 
